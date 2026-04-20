@@ -1,0 +1,61 @@
+---
+titulo: "DECRETO 92 DE 2008 - por medio del cual se seleccionan los proyectos de adecuación de tierras de importancia estratégica que el Incoder puede continuar ejecutando."
+identificador: "DECRETO-92-2008"
+pais: "co"
+rango: "decreto"
+fecha_publicacion: "2008-03-03"
+ultima_actualizacion: "2008-03-03"
+estado: "vigente"
+fuente: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1020947"
+---
+
+# DECRETO 92 DE 2008
+
+(febrero 29)
+
+### por medio del cual se seleccionan los proyectos de adecuación de tierras de importancia estratégica que el Incoder puede continuar ejecutando.
+
+**Subtipo:** DECRETO ORDINARIO
+
+El Ministro de Agricultura y Desarrollo Rural, en ejercicio de las facultades constitucionales y legales, en especial las conferidas en el numeral 20 del artículo 21 de la Ley 1152 de 2007, y
+
+### CONSIDERANDO
+
+Que el numeral 20 del artículo 21 de la Ley 1152 de 2007 "por la cual se dicta el Estatuto de Desarrollo Rural, se reforma el Instituto Colombiano de Desarrollo Rural, Incoder, y se dictan otras disposiciones", determinó que son funciones del mencionado instituto: "Continuar con la titularidad de los contratos relacionados con diseño y construcción de los distritos de riego de importancia estratégica que el Gobierno Nacional seleccione de aquellos que se encuentren pendientes de ejecución en la actualidad";
+
+Que en virtud de esta facultad, el Gobierno Nacional debe proceder a declarar los distritos de riego de importancia estratégica para que el Incoder pueda continuar con su ejecución;
+
+Que el Instituto de Desarrollo Rural, Incoder, mediante documento de fecha 8 de febrero de 2008, puso a consideración del Gobierno Nacional once (11) proyectos de adecuación de tierras, para que a estos se les aplique el numeral 20 del artículo 21 de la Ley 1152 de 2007;
+
+Que como criterios de selección se tienen las siguientes consideraciones: Su contribución al desarrollo regional y al aumento de la generación de ingresos para las familias beneficiarias. Su significativo impacto en la productividad y competitividad agropecuaria en varias regiones donde esta actividad económica es predominante. La estabilidad económica para regiones con población tradicionalmente agropecuaria. El desarrollo sostenible en el mediano y corto plazo en la producción de alimentos. La optimización de la escasa disponibilidad de agua y de los recursos naturales disponibles en cada región; Que en mérito de lo expuesto,
+
+### DECRETA:
+
+**Artículo 1°.** *Proyectos de importancia estratégica.* El Incoder podrá continuar la ejecución en materia de diseño o construcción de los siguientes distritos de riego de importancia estratégica, pendientes de ejecución en la actualidad:
+
+| | | |
+| --- | --- | --- |
+| **Departamento** | **Municipio** | **Proyecto** |
+| Antioquia | San Isidro | Támesis |
+| Atlántico | Repelón | Repelón |
+| Bolívar | María La Baja | María La Baja |
+| Cesar | Tamalameque | Buenos Aires |
+| Córdoba | Montería | Mocari |
+| Córdoba | Lorica | La Doctrina |
+| La Guajira | Fonseca, San Juan del Cesar, Barranca y Distracción | Ranchería (todas sus fases) |
+| Magdalena | Zona Bananera | Tucurinca |
+| Magdalena | Aracataca | Aracataca |
+| Norte de Santander | Zulia | Zulia |
+| Tolima | Coyaima, Natagaima y Purificación | Triángulo (todas sus fases) |
+
+**Artículo 2º**.*Vigencia.* El presente decreto rige a partir de la fecha de su publicación.
+
+Publíquese y cúmplase.
+
+Dada en Bogotá, D. C., a 29 de febrero de 2008.
+
+El Ministro de Agricultura y Desarrollo Rural,
+
+### Andrés Felipe Arias Leiva.
+
+### (C.F.)

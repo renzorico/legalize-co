@@ -1,0 +1,52 @@
+---
+titulo: "DECRETO 27 DE 1938 - Por el cual se reglamenta la expedición de las licencias de que trata el inciso 2° del artículo 5° de la Ley 67 de 1935"
+identificador: "DECRETO-27-1938"
+pais: "co"
+rango: "decreto"
+fecha_publicacion: "1938-01-31"
+ultima_actualizacion: "1938-01-31"
+estado: "vigente"
+fuente: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1006566"
+---
+
+# DECRETO 27 DE 1938
+
+(enero 08)
+
+### Por el cual se reglamenta la expedición de las licencias de que trata el inciso 2° del artículo 5° de la Ley 67 de 1935
+
+**Subtipo:** DECRETO REGLAMENTARIO
+
+### El Presidente de la República de Colombia,
+
+en uso de sus facultades legales,
+
+### decreta:
+
+**Artículo 1°.** El Ministerio de Educación Nacional otorgará las licencias de que trata el inciso 2° del artículo 5° de la Ley 67 de 1935 para ejercicio de la medicina a profesionales eminentes.
+
+**Artículo 2°.** El interesado hará su petición al Ministerio, y acompañará los siguientes documentos debidamente legalizados:
+
+Diploma de médico y cirujano expedido por una Facultad extranjera de reconocida fama;
+
+Certificado expedido por la Legación o Consulado de Colombia, en el lugar de origen del respectivo título;
+
+Certificado de la Dirección de la Policía Nacional (Sección de Extranjeros), en el cual consten los antecedentes del peticionario;
+
+Certificado del Ministerio de Relaciones Exteriores de Colombia, acerca, de la misión que vaya a desempeñar el peticionario; y
+
+El pasaporte o cédula de identidad personal.
+
+**Parágrafo.** El Ministerio estudiará estos documentos y los pasará a la Academia Nacional de Medicina para que esta entidad emita concepto acerca de la Universidad que expidió el diploma, y de la eminencia del profesional.
+
+**Artículo 3°.** El Ministerio de Educación Nacional, oído el concepto de la Academia Nacional de Medicina, dictará la resolución correspondiente y la hará conocer del interesado y de las entidades encargadas del control y cumplimiento de las leyes sobre ejercicio de. la medicina en Colombia.
+
+Comuníquese y publíquese.
+
+Dado en. Bogotá, a 8 de enero de 1938.
+
+### ALFONSO LOPEZ
+
+El Ministro de Educación Nacional,
+
+### José Joaquín CASTRO.M.

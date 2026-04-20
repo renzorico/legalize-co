@@ -1,0 +1,50 @@
+---
+titulo: "DECRETO 65 DE 1955 - Por el cual se deroga el decreto número 265 de 1936"
+identificador: "DECRETO-65-1955"
+pais: "co"
+rango: "decreto"
+fecha_publicacion: "1955-02-01"
+ultima_actualizacion: "1955-02-01"
+estado: "vigente"
+fuente: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1014654"
+---
+
+# DECRETO 65 DE 1955
+
+(enero 18)
+
+### Por el cual se deroga el decreto número 265 de 1936
+
+**Subtipo:** DECRETO ORDINARIO
+
+### El Presidente de la República de Colombia,
+
+en uso de uso atribuciones legales, y
+
+CONSIDERANDO:
+
+Que por Decreto número 265 de febrero 13 de 1936 los se reservaron los terrenos baldíos que existen en la jurisdicción del Municipio de Acandí, de la Intendencia Nacional del Chocó, hoy Departamento del Chocó;
+
+Que dichos terrenos fueron destinados para la siembra de banano, de conformidad con el artículo 4º de la Ley 30 de 1931 y su Decreto reglamentario número 1200 de 1935;
+
+Que debido a diversas circunstancias, los colonos se han dedicado a incrementar en dichos terrenos cultivos diferentes al banano;
+
+Que por lo tanto, queda todo el terreno reservado con el agravante de no poderse adjudicar a los colonos que en él están radicados desde hace muchos años,
+
+### DECRETA:
+
+***Artículo único.*** Derógase en todas sus partes el Decreto número 265 de febrero 13 de 1936.
+
+Afecta la vigencia de: []
+
+Comuníquese y publíquese.
+
+Dado en Bogotá a 18 de enero de 1955.
+
+Gral. Jefe Supremo, **GUSTAVO ROJAS PINILLA,**
+
+Presidente de Colombia.
+
+El Ministro de Agricultura,
+
+## Juan Guillermo Restrepo Jaramillo

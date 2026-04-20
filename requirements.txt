@@ -1,0 +1,5 @@
+beautifulsoup4>=4.12.3
+lxml>=5.2.1
+markdownify>=0.12.1
+python-frontmatter>=1.1.0
+requests>=2.32.3

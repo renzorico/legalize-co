@@ -6,7 +6,7 @@ rango: "decreto"
 fecha_publicacion: "1924-01-15"
 ultima_actualizacion: "1924-01-15"
 estado: "vigente"
-fuente: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1010214"
+fuente: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1689214"
 ---
 
 # DECRETO 47 DE 1924
@@ -17,26 +17,26 @@ fuente: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1010214"
 
 **Subtipo:** DECRETO ORDINARIO
 
-### El Superintendente Bancario,
+### El Presidente de la República de Colombia,
 
-en uso de sus atribuciones legales,
+en uso de sus facultades, y
+
+### considerando:
+
+1° Que ha sido rescindido el contrato sobre suministro de alimentos al personal interno de la Escuela Normal Central de Instructoras;
+
+2° Que la práctica ha demostrado en estos casos la conveniencia de implantar el sistema de economato o de administración directa por parte de los establecimientos,
 
 ### decreta:
 
-**Artículo primero.** La contribución fijada a los Bancos del país, por Decreto número 13, de 10 de abril del año en curso, para sostenimiento de la Superintendencia Bancaria, correspondiente al primer semestre del año que hoy termina, queda, formalmente aumentada en la suma de $ 691-35, cantidad equivalente a $ 0-40 por mil sobre' f 1,728,388-85 .que no se consideraron oportuna-
+**Artículo 1º** Autorízase al Ministro de Instrucción Pública para que ensaye uno de los dos sistemas enumerados, en el suministro de alimentos para el personal interno de la Escuela Normal Central de Instructoras.
 
-Mente en el activo consolidado .del Banco de Londres y América del Sud,- en 31 de diciembre de 1923.
+**Artículo 2º** Por resoluciones especiales será reglamentado tal servicio, así como se señalarán el personal de que ha de constar, sus asignaciones y deberes.
 
-**Artículo segundo.** Las deducciones que, previo y detenido estudio, hizo la Superintendencia Bancaria a los Bancos de la República, Alemán Antioqueño, de Sucre, del Sinü, de Bolívar, Comercial Hipotecario, Crédito Mercantil e Hipotecario del Pacífico, deducciones que montan a la suma de $ 3,948-21 y que comprenden los dos semestres del presente año, quedan formalmente rebajadas por el presente Decreto a los mencionados establecimientos de crédito. i
+**Artículo 3º** Caso de resultar economías en el manejo de los fondos provenientes de las Pensiones alimenticias, queda autorizado el Ministerio para invertirlas en la mejora del establecimiento.
 
-Sométase el presente Decreto a la aprobación del Ministro de Hacienda y Crédito Publico.
+Comuníquese y publíquese.
 
-Comuníquese
+Dado en Bogotá a 10 de enero de 1924.
 
-**Gonzalo Córdoba**, Superintendente Banca rio. **Félix García Ramírez**, Secretario ad hoc.
-
-Ministerio de Hacienda y Crédito Público-Sección 3°-Bogotá, enero 3 de **1925**.
-
-Aprobado. Comuníquese y publíquese.
-
-SI Ministro, **Jesús M. MABULANDA**
+### PEDRO NEL OSPINA-**El Secretario, encargado del despacho, **Elías GUTIERREZ.

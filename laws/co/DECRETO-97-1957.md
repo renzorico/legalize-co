@@ -1,50 +1,108 @@
 ---
-titulo: "DECRETO 97 DE 1957 - Por el cual se toma una medida referente a importaciones"
+titulo: "DECRETO 97 DE 1957 - por el cual se adiciona el Decreto extraordinario número 0461 e 1956 (marzo 2)."
 identificador: "DECRETO-97-1957"
 pais: "co"
 rango: "decreto"
-fecha_publicacion: "1957-02-05"
-ultima_actualizacion: "1957-02-05"
+fecha_publicacion: "1957-06-21"
+ultima_actualizacion: "1957-06-21"
 estado: "vigente"
-fuente: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1841420"
+fuente: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1894676"
 ---
 
 # DECRETO 97 DE 1957
 
-(enero 18)
+(mayo 29)
 
-### Por el cual se toma una medida referente a importaciones
+### por el cual se adiciona el Decreto extraordinario número 0461 e 1956 (marzo 2).
 
-**Subtipo:** DECRETO ORDINARIO
+**Subtipo:** DECRETO LEGISLATIVO
 
-### El Presidente de la República de Colombia,
+**La Junta Militar de Gobierno de la República de Colombia**,
 
-En uso de sus atribuciones legales, y en especial de las que le confiere el Decreto número 637 de 1951
+en uso de las atribuciones de que trata el artículo 121 de la Constitución Nacional, y
+
+### CONSIDERANDO:
+
+Que por Decreto número 3518 de 1949, se declaró turbado el orden público y en estado de sitio el territorio nacional;
+
+Que por Decreto extraordinario número 461 de 2 de marzo de 1956 se declaró disuelto y en estado de liquidación el Instituto de Colonización e Inmigración;
+
+Que entre las obras realizadas por el Instituto de Colonización e Inmigración figuran campos de aterrizaje y edificios complementarios a éstos en Cimitarra, Puerto Asís y Alto Sumapáz;
+
+Que por Decreto número 3269 de 10 de noviembre de 1954 se creó la Empresa Colombiana de Aeródromos, con el fin de administrar y explotar los servicios del transporte aéreo comercial y dentro del territorio nacional,
 
 ### DECRETA:
 
-**Artículo 1.°** A partir de la fecha del presente Decreto y por un término de ocho meses, solamente la Planta Colombiana de Soda, dependiente de la Concesión de Salinas del Banco de la Republica, podra importar los productos y mercancías denominados y comprendidos en las Posiciones del Arancel de Aduanas que se enumera a continuación
+**Artículo 1º** Adiciónase el Decreto extraordinario número 461 de 2 de marzo de 1956, en el sentido de disponer que los campos de aterrizaje de Cimitarra, Puerto Asís y Alto Sumapáz, con las construcciones complementarias de éstos, sean entregados por la Caja de Crédito Agrario, Industrial y Minero, liquidadora del Instituto de Colonización e Inmigración, a la Empresa Colombiana de Aeródromos los cuales serán incorporados a su patrimonio como aporte del Gobierno Nacional.
 
-224 Hidróxido de sodio (soda caustica)
+Afecta la vigencia de: []
 
-b) Otros
+**Artículo 2º** La entrega que se dispone por el artículo anterior se hará por el valor que aparezca en el registro de los libros de contabilidad del Instituto de Colonización e Inmigración, en liquidación, en la fecha en la cual se efectúe la diligencia.
 
-234 Sales de ácido carbónico
-
-a) Carbonato de sodio.
-
-**Artículo 2.°** Las importaciones que haga la Planta Colombiana de Soda de los productos a que se refiere el artículo del presente Decreto, se consideraran como mercancías pertenecientes al Primer Grupo de importación para todos los efectos a que haya lugar.
-
-**Artículo 3.°** El presente Decreto rige desde la fecha de su expedición y suspende todas las disposiciones que le sean contrarias.
+**Artículo 3º** Este Decreto rige a partir de la fecha de su expedición.
 
 Comuníquese y publíquese.
 
-Dado en Bogotá, a 15 de enero de 1957
+Dado en Bogotá a 29 de mayo de 1957.
 
-General jefe Supremo **GUSTAVO ROJAS PINILLA**
+Mayor General **GABRIEL PARIS G**., Presidente de La Junta.
 
-Presidente de Colombia
+Mayor General, **Deogracias Fonseca.**
 
-El Ministro de Hacienda y Crédito Público.
+Contraalmirante, **Rubén Piedrahita Arango.**
 
-### Luis Morales Gomez.
+Brigadier General, **Rafael Navas Pardo.**
+
+Brigadier General, **Luis E. Ordoñez.**
+
+El Ministro de Gobierno,
+
+### José María Villarreal.
+
+El Ministro de Relaciones Exteriores,
+
+### Carlos Sanz de Santamaría.
+
+El Ministro de Justicia,
+
+Mayor General, **Alfredo Duarte Blum.**
+
+El Ministro de Hacienda y Crédito Público,
+
+### Antonio Alvarez Restrepo.
+
+El Ministro de Guerra,
+
+Brigadier General, **Alfonso Saiz Montoya,** Secretario General del Ministerio de Guerra**, e**ncargado del Despacho.
+
+El Ministro de Agricultura,
+
+### Jorge Mejía Salazar.
+
+El Ministro del Trabajo,
+
+### Raimundo Emiliani Román.
+
+El Ministro de Salud Pública,
+
+### Juan Pablo Llinás O.
+
+El Ministro de Fomento,
+
+### Joaquín Vallejo.
+
+El Ministro de Minas y Petróleos,
+
+### Julio César Turbay Ayala.
+
+El Ministro de Educación Nacional,
+
+### Próspero Carbonell.
+
+El Ministro de Comunicaciones,
+
+Mayor General, **Pedro A. Muñoz.**
+
+El Ministro de Obras Públicas,
+
+### Tulio Ospina Pérez.

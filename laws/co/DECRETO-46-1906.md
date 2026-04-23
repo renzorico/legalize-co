@@ -6,7 +6,7 @@ rango: "decreto"
 fecha_publicacion: "1906-08-31"
 ultima_actualizacion: "1906-08-31"
 estado: "vigente"
-fuente: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1010098"
+fuente: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1894668"
 ---
 
 # DECRETO 46 DE 1906
@@ -17,24 +17,24 @@ fuente: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1010098"
 
 **Subtipo:** DECRETO LEGISLATIVO
 
-## El Presidente de la República de Colombia
+## El Presidente de la República de Colombia,
 
-En uso de sus facultades constitucionales y legales y en visa del Decreto dictado por el Gobernador del Departamento de Antioquia, por el cual reorganizar la Universidad de ese Departartamento y establece en ella la enseñanza teórica entre ambos ramos, de los que constituye el estudio propio de la Escuela Nacional de Minas de Medellín,
+En uso de sus facultades constitucionales,
 
-### Decreta
+**decreta**:
 
-**Art 1°** Refúndese la Escuela Nacional de Minas de Medellín en la Universidad de Antioquia
+**Artículo 1°** Queda prohibido estipular exención de impuestos nacionales en los contratos que se celebren sobre privilegio para establecer ferrocarriles y empresas de navegación ó cualesquiera otras.
 
-**Art 2°** la Suma de $4.000 oro que figura en l Presupuesto nacional de Gastos del presente año para el sostenimiento de la Escuela Nacional de Minas de Medellín, se destinara como auxilio a la Universidad de Antioquia, por prestar este instituto el de la Escuela se refunde
+**Parágrafo.** En consecuencia, será absolutamente nula toda cláusula que contravenga esta disposición.
 
-**Art 3°** Los enseres, útiles, aparatos y laboratorios de ella pasaran a servir en la Escuela practica de Minas de la Universidad de Antioquia, los cuales serán entregador por inventario riguroso por el Director Instrucción pública de ese Departamento Copia del Inventario con la diligencia de recibo será enviada al Ministerio de Instrucción publica
+**Artículo 2°** Cuando para impulsar el progreso material del país fuere conveniente, a juicio del Poder Ejecutivo, conceder exención de impuestos nacionales á alguna empresa, tal exención se estipulará en contrato separado celebrado por conducto del Ministerio de Hacienda y Tesoro, sujetándose á las restricciones de los artículos 29 y 30 de la Ley 63 de 1903.
 
-Comuníquese y publíquese
+**Artículo 3°** Este Decreto regirá desde su sanción.
 
-Dado en Bogotá, a 12 de Enero de 1906
+Publíquese y ejecútese.
 
-### R.REYES
+Dado en Bogotá, a 27 de Agosto de 1906.
 
-El Ministerio de Instrucción Pública,
+### R. REYES
 
-**Carlos** CUERVO MARQUEZ
+El Ministro de Gobierno, **Dionisio Arango**- El Ministro de Relaciones Exteriores, **A. Vasquez Cobo**-El Ministro de Hacienda y Tesoro, **Tobias Valenzuela**-El Ministro de Guerra, **Manuel M. Sanclemente**. El Ministro de Instrucción Pública**,** J. M. Rivas Groot.-El Ministro de Obras Públicas, **F. de P. Manotas.**

@@ -1,19 +1,19 @@
 ---
-titulo: "DECRETO 10 DE 1955 - Por el cual se adiciona el Decreto n?mero 1048 de 1950"
+titulo: "DECRETO 10 DE 1955 - por el cual se adiciona el decreto número 1048 de 1950."
 identificador: "DECRETO-10-1955"
 pais: "co"
 rango: "decreto"
 fecha_publicacion: "1955-06-25"
 ultima_actualizacion: "1955-06-25"
 estado: "vigente"
-fuente: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1838328"
+fuente: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1894913"
 ---
 
 # DECRETO 10 DE 1955
 
 (enero 11)
 
-### Por el cual se adiciona el Decreto n?mero 1048 de 1950
+### por el cual se adiciona el decreto número 1048 de 1950.
 
 **Subtipo:** DECRETO ORDINARIO
 
@@ -21,7 +21,7 @@ fuente: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1838328"
 
 en uso de sus facultades legales,
 
-**DECRETA**:
+### DECRETA:
 
 ***Artículo primero.*** Los vinos de frutas nacionales de que trata el artículo 1° del Decreto 1048 de 1950, solo podrán contener hasta un máximo de quince por ciento (15%) de alcohol en volumen, según la Ley 34 de 1925
 
@@ -29,7 +29,7 @@ en uso de sus facultades legales,
 
 ***Artículo tercero.*** La licencia de venta de los vinos nacionales se expedirá por el Departamento Jurídico del Ministerio de Salud Pública, en papel sellado, una vez llenados los requisitos de que trata este Decreto y los demás vigentes sobre la materia.
 
-***Parágrafo***. La duración de la licencia será por cinco años, al término de los cuales puede ser renovada a solicitud del interesado.
+***Parágrafo.*** La duración de la licencia será por cinco años, al término de los cuales puede ser renovada a solicitud del interesado.
 
 ***Artículo cuarto.*** Los vinos que se den al consumo público, deben llevar en cada envase una etiqueta, en la cual conste, además de las marcas de fábrica y de la leyenda propia del contenido, de una manera clara, absolutamente legible y en idioma español, lo siguiente: Nombre del fabricante; entidad o empresa responsable a quien el Ministerio de Salud Pública hubiere concedido permiso para fabricar el vino; nombre de la ciudad o lugar donde funciona la fábrica, y del Departamento, Intendencia o Comisaría a cuya jurisdicción corresponda, y dirección precisa del local de fabricación. En la misma etiqueta se pondrán palabras y el número de la licencia que ampara el producto.
 
@@ -49,8 +49,8 @@ Comuníquese y publíquese.
 
 Dado en Bogotá a 11 de enero de 1954.
 
-Teniente General **GUSTAVO ROJAS PINILLA**.
+Teniente General **GUSTAVO ROJAS PINILLA.**
 
 El Ministro de Salud Pública,
 
-***Bernardo Henao Mejía***.
+## Bernardo Henao Mejía.

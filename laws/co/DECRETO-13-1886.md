@@ -1,0 +1,36 @@
+---
+titulo: "DECRETO 13 DE 1886 - Por el cual se establece un nuevo capítulo en el presupuesto de rentas y gastos para la presente vigencia económica de 1885 a 1886"
+identificador: "DECRETO-13-1886"
+pais: "co"
+rango: "decreto"
+fecha_publicacion: "1886-01-12"
+ultima_actualizacion: "1886-01-12"
+estado: "vigente"
+fuente: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1838421"
+---
+
+# DECRETO 13 DE 1886
+
+(enero 09)
+
+### Por el cual se establece un nuevo capítulo en el presupuesto de rentas y gastos para la presente vigencia económica de 1885 a 1886
+
+**Subtipo:** DECRETO ORDINARIO
+
+### *El Presidente de la República de Colombia*****,
+
+### CONSIDERANDO:
+
+Que en el Presupuesto de Rentas y Gastos no existe entre las cuentas una a la cual puedan imputarse los ingresos y egresos provenientes de las salinas marítimas,
+
+**DECRETA**:
+
+**Artículo único.** Establéese para el Presupuesto de Rentas y Gastos de la presente vigencia económica, la cuenta denominada "Salinas marítimas," y créase al efecto el Capítulo 12 del mismo Presupuesto.
+
+Dado en Bogotá, á 9 de Enero de 1886.
+
+**RAFAEL NÚÑEZ**.
+
+El Secretario de Hacienda,
+
+**F.** Angulo.

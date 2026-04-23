@@ -1,40 +1,78 @@
 ---
-titulo: "DECRETO 59 DE 1953 - Por el cual se modifica el marcado con el número 429 de 1952, sobre procedimiento de oficio para el reconocimiento de prestaciones sociales en el ramo de Guerra"
+titulo: "DECRETO 59 DE 1953 - Por el cual se aprueba un convenio y se nacionaliza una carretera, en el Ministerio de Obras Públicas"
 identificador: "DECRETO-59-1953"
 pais: "co"
 rango: "decreto"
-fecha_publicacion: "1953-01-29"
-ultima_actualizacion: "1953-01-29"
+fecha_publicacion: "1954-01-28"
+ultima_actualizacion: "1954-01-28"
 estado: "vigente"
-fuente: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1013148"
+fuente: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1837892"
 ---
 
-# DECRETO 59 DE 1953
+# DECRETO 59 DE 1954
 
-(enero 16)
+(enero 14)
 
-### Por el cual se modifica el marcado con el número 429 de 1952, sobre procedimiento de oficio para el reconocimiento de prestaciones sociales en el ramo de Guerra
+### Por el cual se aprueba un convenio y se nacionaliza una carretera, en el Ministerio de Obras Públicas
 
-**Subtipo:** DECRETO ORDINARIO
+**Subtipo:** DECRETO LEGISLATIVO
 
-### El Designado, Encargado de la Presidencia de la Republica de Colombia,
+### El Presidente de la República de Colombia,
 
-en uso de sus facultades legales,
+en ejercicio de las facultades que le confiere el artículo 121 de la Constitución Nacional, y
+
+### CONSIDERANDO:
+
+Que entre el señor Ministro de Obras Públicas y el Gobernado del Tolima se celebró un convenio para el canje de carreteras nacionales y departamentales;
+
+Que dicho convenio se hizo constar en el Acta de fecha 11 de diciembre de 1953, Acta que fue aprobada por el Decreto número 1665 de 1953, de la Gobernación del Tolima;
+
+Que el canje de carreteras entre la Nación y el Departamento del Tolima tiene por objeto hacer más económico el sostenimiento de aquellas vías, tanto para la Nación como para el Departamento, y
+
+Que es necesario legalizar la nacionalización de una carretera en el Departamento de Cundinamarca,
 
 ### DECRETA:
 
-**Artículo único.** Modifíquese el Decreto número 429 de 1952, en el sentido de disponer que el certificado de paz y salvo que deben presentar los interesados como prueba para prestaciones sociales en el ramo de Guerra, de que trata el numeral 7º del artículo 1º, sea el expedido por la administración de Hacienda o Recaudación de Rentas del lugar de su residencia, a excepción del correspondiente al personal de Oficiales de las Fuerzas Militares, que continuará siendo el expedido por la Administración de Hacienda Nacional de Cundinamarca. Queda suprimido el envío del importe de este en estampillas y la consiguiente gestión oficial para su obtención.
+**Artículo primero.** Aprúebase en todas sus partes el Acta celebrada entre la Nación y el Departamento, y suscrita por el Ministerio de Obras Públicas y el Gobernador del Tolima, y que a la letra dice:
 
-**Parágrafo.** Las disposiciones del presente decreto rigen a partir de la fecha de su expedición, y son aplicables a los expedientes que sobre la materia cursan actualmente en el ramo de Guerra.
+Acta suscrita por el Ministro de Obras Públicas y el Gobernador del Departamento del Tolima, sobre permuta de vías nacionales y departamentales:
 
-Afecta la vigencia de: []
+Santiago Trujillo Gómez, con cédula de ciudadanía número 44607 de Bogotá, en su carácter de Ministro de Obras Públicas, debidamente autorizado por el Excelentísimo Presidente de la República, Teniente General Gustavo Rojas Pinilla, obrando en nombre y representación de la Nación, y Teniente Coronel César A. Cuellar Velandia, con cédula militar número 0125, en su carácter de Gobernador del Departamento del Tolima, convienen en permutar las siguientes vías, con el objeto de hacer más económico su sostenimiento.
 
-Comuníquese y cúmplase.
+La Nación traspasa a perpetuidad al Departamento del Tolima, las siguientes carreteras naciones: Purificación-Prado-Dolores, cuarenta y ocho (48) kilómetros; Siberia-Cunday-La Colonia, treinta y nueve (39) kilómetros; Guamo-Ortega, treinta y siete (37) kilómetros; Castilla-Coyaima, diez y ocho (18) kilómetros; Coyaima-Chaparral, treinta y siete (37) kilómetros; Chaparral-Santana, doce (12) kilómetros; total ciento noventa y un (191) kilómetros.
 
-Dado en Bogotá, D. E., a 16 de enero de 1953.
+El Departamento del Tolima traspasa a perpetuidad a la Nación, las siguientes carreteras departamentales: Kilómetro 96 a Ambalema, catorce (14) kilómetros; La Sierra a Ambalema, veinticuatro (24) kilómetros; San Felipe-Fálan-Palocabildo-San Jerónimo, treinta y dos (32) kilómetros; Palocabildo-Buenos Aires-Frías, diez y seis (16) kilómetros; Armero-Maracaibo-Méndez, veinticinco (25) kilómetros; Ambalema-Pajonales, nueve (9) kilómetros; Venadillo-Palmarosa, nueve y medio (9½) kilómetros; La Sierrita-Santa Isabel, treinta y cuatro (34) kilómetros; Alvarado-Piedras, quince (15) kilómetros; Salado-Chipalito, doce (12) kilómetros; total ciento noventa y medio (190½) kilómetros.
 
-***ROBERTO URDANETA ARBELAEZ***.
+Además la Nación le traspasa a perpetuidad al Departamento, el puente de El Paso, sobre el río Fusagasugá, situado en la carretera departamental que va al Carmen de Apicalá y el transbordador que actualmente está prestando servicio en el paso del río Magdalena, en Purificación.
 
-El Ministro de Guerra,
+El 1º. de enero de mil novecientos cincuenta y cuatro (1954), se efectuará la entrega de las carreteras nacionales al Departamento y de las departamentales a la Nación, incluyéndose los campamentos en estas vías. Con la excepción del campamento de propiedad de la Nación situado en el Guamo. Desde esa fecha en adelante la conservación, adiciones y mejoras de las vías citadas, corresponderán a la entidad que las reciba. Este convenio requiere para su validez la aprobación por medio de decreto del Ejecutivo Nacional y de la Gobernación del Tolima.
 
-## José María Bernal.
+En constancia se firma en Bogotá a los once (11) días del mes de diciembre de mil novecientos cincuenta y tres (1953).
+
+El Ministro de Obras Públicas,
+
+## Santiago Trujillo Gómez.
+
+El Gobernador del Departamento del Tolima,
+
+Teniente Coronel ***César A. Cuellar Velandia.***
+
+El Secretario General del Ministerio de Obras Públicas,
+
+## Alvaro Goenaga.
+
+El Secretario de Obras Públicas del Tolima,
+
+## Ramón Rodríguez Segura.
+
+**Artículo segundo**. Aprúebase el Decreto número 1665 de 1953 del Gobernador del Tolima.
+
+**Artículo tercero**. La carretera Madrid-Subachoque, en el Departamento de Cundinamarca, será en adelante nacional y su conservación se hará por la Zona de Carreteras Nacionales de Bogotá.
+
+**Artículo cuarto.** Este Decreto rige desde la fecha de su expedición, y quedan suspendidas las disposiciones que le sean contrarias.
+
+Comuníquese y publíquese.
+
+Dado en Bogotá a 14 de enero de 1954.
+
+Teniente General ***GUSTAVO ROJAS PINILLA.***
